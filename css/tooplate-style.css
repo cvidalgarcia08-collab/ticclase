@@ -210,15 +210,15 @@ img {
 }
 
 .tm-bg-primary-light {
-  background-color: #edcc24;
+  background-color-yellow: #edcc24;
 }
 
 .tm-bg-primary-dark {
-  background-color: #edcc24;
+  background-color-yellow: #edcc24;
 }
 
 .tm-bg-secondary {
-  background-color: #edcc24;
+  background-color-yellow: #edcc24;
 }
 
 .tm-mt {
@@ -399,6 +399,7 @@ textarea {
     bottom: -25px;
   }
 }
+
 
 
 
