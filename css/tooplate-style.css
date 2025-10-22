@@ -193,12 +193,12 @@ img {
 
 .tm-btn-secondary {
   color: white;
-  background-color-yellow: #edcc24;
+  background-color: #edcc24;
 }
 
 .tm-btn-secondary:hover {
   color: #ffffff;
-  background-color-yellow: #edcc24;
+  background-color: #edcc24;
 }
 
 .tm-text-white {
@@ -210,15 +210,15 @@ img {
 }
 
 .tm-bg-primary-light {
-  background-color-yellow: #edcc24;
+  background-color: #edcc24;
 }
 
 .tm-bg-primary-dark {
-  background-color-yellow: #edcc24;
+  background-color: #edcc24;
 }
 
 .tm-bg-secondary {
-  background-color-yellow: #edcc24;
+  background-color: #edcc24;
 }
 
 .tm-mt {
@@ -399,6 +399,7 @@ textarea {
     bottom: -25px;
   }
 }
+
 
 
 
