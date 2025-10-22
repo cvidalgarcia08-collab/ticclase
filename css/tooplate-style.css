@@ -193,12 +193,12 @@ img {
 
 .tm-btn-secondary {
   color: white;
-  background-color: #fafc51;
+  background-color-yellow: #fafc51;
 }
 
 .tm-btn-secondary:hover {
   color: #ffffff;
-  background-color: #fafc51;
+  background-color-yellow: #fafc51;
 }
 
 .tm-text-white {
@@ -399,5 +399,6 @@ textarea {
     bottom: -25px;
   }
 }
+
 
 
