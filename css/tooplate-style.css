@@ -193,7 +193,7 @@ img {
 
 .tm-btn-secondary {
   color: white;
-  background-color: #9999cc;
+  background-color: #fafc51;
 }
 
 .tm-btn-secondary:hover {
@@ -210,15 +210,15 @@ img {
 }
 
 .tm-bg-primary-light {
-  background-color: #cc9999;
+  background-color: #fafc51;
 }
 
 .tm-bg-primary-dark {
-  background-color: #996666;
+  background-color: #edd924;
 }
 
 .tm-bg-secondary {
-  background-color: #9999cc;
+  background-color: #edd924;
 }
 
 .tm-mt {
@@ -399,4 +399,5 @@ textarea {
     bottom: -25px;
   }
 }
+
 
