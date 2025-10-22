@@ -188,7 +188,7 @@ img {
 }
 
 .tm-btn-primary:hover {
-  background-color: #c5c5e6;
+  background-color: #fafc51;
 }
 
 .tm-btn-secondary {
@@ -198,7 +198,7 @@ img {
 
 .tm-btn-secondary:hover {
   color: #ffffff;
-  background-color: #5b5bb2;
+  background-color: #fafc51;
 }
 
 .tm-text-white {
@@ -310,7 +310,7 @@ textarea {
 
 .tm-footer,
 .tm-footer a {
-  color: #cbcbcb;
+  color: #fafc51;
 }
 
 .tm-footer a:hover {
@@ -399,3 +399,4 @@ textarea {
     bottom: -25px;
   }
 }
+
