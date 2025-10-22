@@ -188,17 +188,17 @@ img {
 }
 
 .tm-btn-primary:hover {
-  background-color: #edcc24;
+  background-color-yellow: #edcc24;
 }
 
 .tm-btn-secondary {
   color: white;
-  background-color: #edcc24;
+  background-color-yellow: #edcc24;
 }
 
 .tm-btn-secondary:hover {
   color: #ffffff;
-  background-color: #edcc24;
+  background-color-yellow: #edcc24;
 }
 
 .tm-text-white {
@@ -399,6 +399,7 @@ textarea {
     bottom: -25px;
   }
 }
+
 
 
 
