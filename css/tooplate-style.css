@@ -188,17 +188,17 @@ img {
 }
 
 .tm-btn-primary:hover {
-  background-color: #fafc51;
+  background-color: #edcc24;
 }
 
 .tm-btn-secondary {
   color: white;
-  background-color-yellow: #fafc51;
+  background-color-yellow: #edcc24;
 }
 
 .tm-btn-secondary:hover {
   color: #ffffff;
-  background-color-yellow: #fafc51;
+  background-color-yellow: #edcc24;
 }
 
 .tm-text-white {
@@ -210,15 +210,15 @@ img {
 }
 
 .tm-bg-primary-light {
-  background-color: #fafc51;
+  background-color: #edcc24;
 }
 
 .tm-bg-primary-dark {
-  background-color: #edd924;
+  background-color: #edcc24;
 }
 
 .tm-bg-secondary {
-  background-color: #edd924;
+  background-color: #edcc24;
 }
 
 .tm-mt {
@@ -399,6 +399,7 @@ textarea {
     bottom: -25px;
   }
 }
+
 
 
 
